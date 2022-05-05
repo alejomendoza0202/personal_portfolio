@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
 import LandingLayout from "./layouts/LandingLayout";
-import Pdf from "./pages/pdf";
+import Pdf from "./pages/Pdf";
 
 function App() {
   return (
